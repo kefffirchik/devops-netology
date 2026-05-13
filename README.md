@@ -32,4 +32,4 @@ First line
 - !example_override.tf - исключение файла example_override.tf из ignore
 - .terraformrc - игнорирование файла .terraformrc
 - terraform.rc - игнорирование файла terraform.rc
-- # - комментарии, не применяются Git
+- '#' - комментарии, не применяются Git
