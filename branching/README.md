@@ -16,8 +16,9 @@ git log --oneline --graph --all
 
 ## Commit Graph
 
+```bash
 *   0addf11 (HEAD -> main, origin/main, origin/HEAD) Merge branch 'git-merge'
-|\  
+|\
 | * 97ee55e (origin/git-merge, git-merge) merge: use shift
 | * 552d4ad merge: @ instead *
 | * d289e36 (fix) prepare for merge and rebase
@@ -28,11 +29,14 @@ git log --oneline --graph --all
 * | 19f6037 Change README.md
 * | 8622bbd README.md change
 * | 36898f5 Moved and deleted
-|/  
+|/
 * 4fab8e6 Prepare to delete and move
 * 2c9af7d Added gitignore
 * f167460 First commit
 * 839a307 Initial commit
+```
+
+##Links
 
 - [История коммитов](https://github.com/kefffirchik/devops-netology/commits/main)
 - [Network graph](https://github.com/kefffirchik/devops-netology/network)
