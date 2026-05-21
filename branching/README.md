@@ -12,7 +12,6 @@
 
 Итоговая история проверена командой:
 
-```bash
 git log --oneline --graph --all
 
 ## Commit Graph
